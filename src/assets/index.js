@@ -15,6 +15,7 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
+import postgresql from "./tech/postgresql.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
@@ -29,8 +30,10 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import coursebook from "./coursebookScr.jpeg";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import bcaburgerwala from "./bcaburgerwalaScr.png";
+import deartesla from "./deartesla.png";
+import miquido from "./miquido.png";
+import anontalks from "./anontalks.png";
 
 export {
   logo,
@@ -49,6 +52,7 @@ export {
   html,
   javascript,
   mongodb,
+  postgresql,
   nodejs,
   reactjs,
   redux,
@@ -61,6 +65,8 @@ export {
   tesla,
   carrent,
   coursebook,
-  jobit,
-  tripguide,
+  bcaburgerwala,
+  deartesla,
+  miquido,
+  anontalks,
 };
